@@ -72,3 +72,12 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+#Assets Folders
+Content/BMMCSystem/*
+Content/GKnight/*
+Content/LongswordAnimsetPro/*
+Content/ModularKnight/*
+Content/ParagonSunWukong/*
+Content/SpearAndHalberdAnimset/*
+Content/StarterContent/*
